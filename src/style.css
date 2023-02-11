@@ -1,0 +1,26 @@
+.carrossel_img1{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.carrossel_img2{
+    object-fit: cover;
+    height: 400px;
+}
+.fonte_titulo{
+    font-family: 'Pacifico', cursive;
+}
+.cor_especial {
+color: darkred;
+}
+
+.botao_cor_especial{
+    background-color: darkred;
+    color: white;
+    
+
+}
+.borda_cor_especial{
+    border-color: darkred;
+}
