@@ -23,4 +23,5 @@ color: darkred;
 }
 .borda_cor_especial{
     border-color: darkred;
+    box-shadow: 8px 80px ;
 }
